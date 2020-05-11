@@ -1,4 +1,4 @@
-#CHAT APPLICATION CREATED USING REACT AND FIREBASE
+## CHAT APPLICATION CREATED USING REACT AND FIREBASE
 Please add configuration for firebase in ./src/services/firebase.js
 
 
