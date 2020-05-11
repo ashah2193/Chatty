@@ -1,3 +1,7 @@
+#CHAT APPLICATION CREATED USING REACT AND FIREBASE
+Please add configuration for firebase in ./src/services/firebase.js
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
